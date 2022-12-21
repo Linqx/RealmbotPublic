@@ -1,0 +1,1 @@
+Set LastTickId after processing all the objects on New TIck

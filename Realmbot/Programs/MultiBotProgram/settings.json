@@ -1,0 +1,16 @@
+﻿{
+  "encryption_data": {
+    "rsa":
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCKFctVrhfF3m2Kes0FBL/JFeOcmNg9eJz8k/hQy1kadD+XFUpluRqa//Uxp2s9W2qE0EoUCu59ugcf/p7lGuL99UoSGmQEynkBvZct+/M40L0E0rZ4BVgzLOJmIbXMp0J4PnPcb6VLZvxazGcmSfjauC7F3yWYqUbZd/HCBtawwIDAQAB\n",
+    "incoming_rc4": "c79332b197f92ba85ed281a023",
+    "outgoing_rc4": "6a39570cc9de4ec71d64821894"
+  },
+  "preferredServer": "usw",
+  "accounts": [
+    {
+      "email": "",
+      "password": "",
+      "charId": 2
+    }
+  ]
+}
